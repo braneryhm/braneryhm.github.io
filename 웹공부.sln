@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "웹공부1", "웹공부1", "{A610196C-0617-4017-8197-E26450737689}"
+	ProjectSection(SolutionItems) = preProject
+		1.html = 1.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7003CA4-DDF9-4430-9FAA-FB07BBEC9373}
+	EndGlobalSection
+EndGlobal
