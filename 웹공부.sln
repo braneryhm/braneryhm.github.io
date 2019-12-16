@@ -5,18 +5,19 @@ VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "웹공부1", "웹공부1", "{A610196C-0617-4017-8197-E26450737689}"
 	ProjectSection(SolutionItems) = preProject
-		basic.html = basic.html
-		create ac.html = create ac.html
+		layout.css = layout.css
 		login page.html = login page.html
+		login.css = login.css
 		m_anniversaryinfo.html = m_anniversaryinfo.html
 		m_dialogue.html = m_dialogue.html
 		m_history.html = m_history.html
 		m_livechat.html = m_livechat.html
 		m_memories.html = m_memories.html
 		m_pictures.html = m_pictures.html
-		m_storyboard.html = m_storyboard.html
 		m_videos.html = m_videos.html
 		main page.html = main page.html
+		main.css = main.css
+		menu.html = menu.html
 	EndProjectSection
 EndProject
 Global
